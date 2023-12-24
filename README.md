@@ -8,8 +8,7 @@
 1. `chmod u+x ./installer.sh` to make the installer script executable. (You'll need to `sudo` it probs)
 2. Done. Should be able to execute `nettyboi` from anywhere now. If it doesn't work I'm sorry, too bad I guess.
 
-If you're on windows, it might work by just running the .exe or the python script in isolation. `installer.sh` definitely won't do
-anything to help you though.
+not gunna run on windows unless it gets packaged on windows. cba
 
 ## Usage
 run `nettyboi` from cli.
