@@ -4,6 +4,7 @@
 
 ## Installation
 # Linux only. Not supporting windows with this nonsense so don't even think about it
+0. Download the [latest release](https://github.com/birdybirdonline/Nettyboi/releases/tag/tool "nettyboi 1.0")
 1. `chmod u+x ./installer.sh` to make the installer script executable. (You'll need to `sudo` it probs)
 2. Done. Should be able to execute `nettyboi` from anywhere now. If it doesn't work I'm sorry, too bad I guess.
 
